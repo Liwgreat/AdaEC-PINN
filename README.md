@@ -16,12 +16,10 @@ Physics-informed neural networks (PINNs) provide a data-driven framework for sol
 
 
 ### Folder tree:
-```plaintext
-PDE Name/
-├── experimental_data # Data from Experimental Results
-├── figures # Images Created from Data Derived from Experimental Results
-├── main_code
-│   ├── method.ipynb
-│   └── utils_training.py # Network Architecture Code
-├── plot_code 
-└── saved_model # Saving the Experimental Result Model
+```plaintext  
+Noise Type/PDE Name/
+├── O-PINN # The original method for training PINN_inv
+├── EC-PINN # The EC method for training PINN_inv
+├── AdaEC-PINN # The AdaEC method for training PINN_inv
+└── utils_training # The utils of the network structure
+```
