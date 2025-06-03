@@ -1,4 +1,7 @@
 # AdaEC
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Liwgreat/AdaEC-PINN)
+
 ### Titile: 
 "An Adaptive Error Correction Method for Training PINNs to Solve Inverse Problems with Noisy Observational Data"
 
