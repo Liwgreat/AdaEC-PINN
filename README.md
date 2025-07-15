@@ -1,6 +1,6 @@
 # AdaEC
 
-### Titile: 
+### Title: 
 "An Adaptive Error Correction Method for Training PINNs to Solve Inverse Problems with Noisy Observational Data"
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325078
