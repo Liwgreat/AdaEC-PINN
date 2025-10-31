@@ -3,7 +3,7 @@
 ### Title: 
 "An Adaptive Error Correction Method for Training PINNs to Solve Inverse Problems with Noisy Observational Data"
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325078
+[hhttps://ssrn.com/abstract=5325078](https://ssrn.com/abstract=5325078)
 
 
 ### Abstract: 
