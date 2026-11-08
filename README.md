@@ -2,10 +2,7 @@
 
 Title: "An adaptive error correction method for training physics-informed neural networks to solve inverse problems with noisy observational data"
 
-### Initial Work:
-[Preprint on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325078)
-
-### Current Publication:
+### Publication:
 [An adaptive error correction method for training physics-informed neural networks to solve inverse problems with noisy observational data](https://www.sciencedirect.com/science/article/pii/S0021999126007801)
 
 *Journal of Computational Physics*. Available online 29 September 2026.
